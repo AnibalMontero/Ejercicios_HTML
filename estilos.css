@@ -10,3 +10,9 @@ h1 {
   }
   .destacado { color: red; }
   p span { color: red; }
+  h1 span { color: blue; } 
+  p * a { color: green; }
+
+  /* p.aviso { ... } todos los p con la clase aviso
+p .aviso { ... } los elementos de la clave .aviso dentro de un p
+p, .aviso { ... } los elementos de la clave .aviso y los p*/
