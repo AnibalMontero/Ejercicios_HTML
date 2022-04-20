@@ -9,3 +9,4 @@ h1 {
     font-size: medium;
   }
   .destacado { color: red; }
+  p span { color: red; }
